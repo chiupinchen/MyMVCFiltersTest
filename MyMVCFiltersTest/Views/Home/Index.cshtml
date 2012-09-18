@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+</p>
+
+<script type="text/javascript">
+    function OnSuccess(ajaxContext) {
+        debugger;
+        alert('Success');
+    }
+
+
+</script>
+
+@if (ViewBag.LogInError == true)
+{ 
+<div>Login error</div>
+}
+
+@using(Html.BeginForm("SetSession", "Home", FormMethod.Post,null))
+{
+<div>
+SessionID: 
+@Html.TextBox("EntryID1") <input type="submit" value="SetSession" />
+</div>
+}
+<hr />
+@using (Ajax.BeginForm("AjaxSetSession", "Home", new AjaxOptions { UpdateTargetId = "result", OnSuccess = "OnSuccess" }))
+{
+<div>
+<div id="result"></div>
+SessionID: 
+@Html.TextBox("EntryID2") <input type="submit" value="SetSession" />
+</div>
+}
+
+@Html.ActionLink("RemoveSession", "RemoveSession", "Home");
