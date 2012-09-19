@@ -1,0 +1,142 @@
+2012-09-19T16:23:28.7852887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:23:28.7852887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:23:33.7212887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:23:33.7212887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:24:15.0402887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:24:15.0402887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:24:21.7182887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:24:21.7182887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:26:32.5442887Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:26:33.2612887Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:27:06.0132887Z - 6476 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T16:27:06.0202887Z - 6476 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T16:27:06.2782887Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:27:06.2842887Z - 6476 - Debug - Initialising redirection module static fields.
+2012-09-19T16:27:06.2892887Z - 6476 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T16:27:08.1612887Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:27:08.1962887Z - 6476 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T16:27:08.5492887Z - 6476 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T16:27:12.7702887Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:27:12.7712887Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:27:27.9822887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:27:27.9832887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:27:54.9622887Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest/Account/LogOn' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:27:54.9622887Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/Account/LogOn' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:28:19.2992887Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:28:49.3077376Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:33:33.2611301Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:33:34.1192159Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:33:52.9070945Z - 6476 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T16:33:52.9150953Z - 6476 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T16:33:53.2741312Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:33:53.2791317Z - 6476 - Debug - Initialising redirection module static fields.
+2012-09-19T16:33:53.2851323Z - 6476 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T16:33:53.2881326Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:33:53.3041342Z - 6476 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T16:33:53.8611899Z - 6476 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T16:33:54.2982336Z - 6476 - Debug - Request for 'http://localhost/MyMVCFiltersTest' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T16:33:54.2992337Z - 6476 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T16:33:58.3046342Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:33:58.3056343Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:33:58.3066344Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:33:58.3066344Z - 6476 - Debug - Initialising redirection module
+2012-09-19T16:34:46.9094942Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:35:16.9244954Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:35:46.9400843Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:36:16.9540843Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:54:12.0180837Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T16:54:12.9490837Z - 6476 - Debug - Disposing Redirection Module
+2012-09-19T18:07:02.6146739Z - 5268 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:07:02.6186739Z - 5268 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:07:53.6766739Z - 6460 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:07:53.6876739Z - 6460 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:07:53.7446739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:07:53.7496739Z - 6460 - Debug - Initialising redirection module static fields.
+2012-09-19T18:07:53.7556739Z - 6460 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:07:53.7606739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:07:53.7916739Z - 6460 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:07:54.2796739Z - 6460 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:07:55.3216739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:07:55.3216739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:08:53.6296739Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:09:19.8756739Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:09:20.0726739Z - 6460 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:09:20.0806739Z - 6460 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:09:20.4266739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:09:20.4326739Z - 6460 - Debug - Initialising redirection module static fields.
+2012-09-19T18:09:20.4376739Z - 6460 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:09:20.7746739Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:09:25.6426739Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:09:26.3196739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:09:26.3576739Z - 6460 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:09:26.7006739Z - 6460 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:09:30.7516739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:09:30.7526739Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:09:54.8386739Z - 5268 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:09:54.8416739Z - 5268 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:10:56.3804259Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:10:56.3804259Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:10:56.3804259Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:10:56.5914470Z - 6460 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:10:56.5984477Z - 6460 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:10:56.8174696Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:10:56.8224701Z - 6460 - Debug - Initialising redirection module static fields.
+2012-09-19T18:10:56.8274706Z - 6460 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:10:57.0694948Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:10:57.7935672Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:10:57.8315710Z - 6460 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:10:58.1846063Z - 6460 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:10:59.0236902Z - 5268 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:10:59.0276906Z - 5268 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:11:34.6882563Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:11:34.8832758Z - 6460 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:11:34.8902765Z - 6460 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:11:35.1042979Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:11:35.1102985Z - 6460 - Debug - Initialising redirection module static fields.
+2012-09-19T18:11:35.1152990Z - 6460 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:11:35.3853260Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:11:36.0753950Z - 6460 - Debug - Initialising redirection module
+2012-09-19T18:11:36.1183993Z - 6460 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:11:36.4924367Z - 6460 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:13:59.2577118Z - 5268 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:13:59.2617122Z - 5268 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:19:39.3467173Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:19:40.6938520Z - 6460 - Debug - Disposing Redirection Module
+2012-09-19T18:28:01.3934729Z - 2668 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:28:01.4064521Z - 2668 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:41:10.9095585Z - 7752 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:41:10.9275585Z - 7752 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:41:11.5815585Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:41:11.5875585Z - 7752 - Debug - Initialising redirection module static fields.
+2012-09-19T18:41:11.5935585Z - 7752 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:41:11.5975585Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:41:11.6175585Z - 7752 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:41:12.0935585Z - 7752 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:41:12.5405585Z - 7752 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T18:41:12.5405585Z - 7752 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T18:41:16.6535585Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:41:16.6535585Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:41:16.6535585Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:42:10.3137816Z - 7752 - Debug - Disposing Redirection Module
+2012-09-19T18:42:40.3828044Z - 7752 - Debug - Disposing Redirection Module
+2012-09-19T18:43:10.4528291Z - 7752 - Debug - Disposing Redirection Module
+2012-09-19T18:47:52.7927112Z - 7752 - Debug - Disposing Redirection Module
+2012-09-19T18:47:54.1549361Z - 7752 - Debug - Disposing Redirection Module
+2012-09-19T18:48:39.3005306Z - 7752 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:48:39.3075369Z - 7752 - Debug - Constructing MobileCapabilitiesProvider - Default
+2012-09-19T18:48:39.7499347Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:48:39.7559401Z - 7752 - Debug - Initialising redirection module static fields.
+2012-09-19T18:48:39.7619455Z - 7752 - Debug - Getting 'fiftyOne/detection' configuration from file 'C:\gitJessica\MyMVCFiltersTest\MyMVCFiltersTest\51Degrees.mobi.config'.
+2012-09-19T18:48:39.7649482Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:48:39.7809626Z - 7752 - Debug - Creating provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:48:40.1032524Z - 7752 - Info - Created provider from embedded device data 'FiftyOne.Foundation.Mobile.Detection.Binary.Resources.51Degrees.mobi-Lite.dat'.
+2012-09-19T18:48:40.5466511Z - 7752 - Debug - Request for 'http://localhost/MyMVCFiltersTest/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T18:48:40.5476520Z - 7752 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5' from url 'http://localhost/MyMVCFiltersTest/' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T18:49:13.2920955Z - 7752 - Debug - Request for 'http://localhost/MyMVCFiltersTest' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T18:49:13.2920955Z - 7752 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F191 Safari/6533.18.5 electricmobilesimulator' from url 'http://localhost/MyMVCFiltersTest' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T18:49:15.8513968Z - 7752 - Debug - Initialising redirection module
+2012-09-19T18:49:18.8861256Z - 7752 - Debug - Request for 'http://localhost/MyMVCFiltersTest/Home/About' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T18:49:18.8861256Z - 7752 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F191 Safari/6533.18.5 electricmobilesimulator' from url 'http://localhost/MyMVCFiltersTest/Home/About' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T18:49:39.0262354Z - 7752 - Debug - Request for 'http://localhost/MyMVCFiltersTest/Home/About' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2012-09-19T18:49:39.0262354Z - 7752 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPad; U; CPU OS 4_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F191 Safari/6533.18.5 electricmobilesimulator' from url 'http://localhost/MyMVCFiltersTest/Home/About' to '~/IPad/Process/Index2' due to 'mobile'.
+2012-09-19T18:50:39.1713173Z - 7752 - Debug - Disposing Redirection Module

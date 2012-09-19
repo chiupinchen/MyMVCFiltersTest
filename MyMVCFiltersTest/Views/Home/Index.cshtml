@@ -27,6 +27,13 @@
 SessionID: 
 @Html.TextBox("EntryID1") <input type="submit" value="SetSession" />
 </div>
+    <div>
+<input type="checkbox" name="abc" value="1" /> A
+<input type="checkbox" name="abc" value="2" /> B
+<input type="checkbox" name="abc" value="3"/> C
+<input type="checkbox" name="abc" value="4"/> D
+@Html.TextBox("abc_adv")
+    </div>
 }
 <hr />
 @using (Ajax.BeginForm("AjaxSetSession", "Home", new AjaxOptions { UpdateTargetId = "result", OnSuccess = "OnSuccess" }))
@@ -39,3 +46,4 @@ SessionID:
 }
 
 @Html.ActionLink("RemoveSession", "RemoveSession", "Home");
+

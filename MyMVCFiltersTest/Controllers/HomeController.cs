@@ -18,8 +18,11 @@ namespace MyMVCFiltersTest.Controllers
         }
 
         [ExcludeFilter(typeof(AdminAuthorizeAttribute))]
-        public ActionResult SetSession(string EntryID1)
+        public ActionResult SetSession(string EntryID1, FormCollection fc)
         {
+
+            var p = Request.Form["abc"];
+
             if (EntryID1 != "") { 
                 SessionHandler.EntryID = EntryID1;
                 return RedirectToAction("About");
@@ -43,7 +46,7 @@ namespace MyMVCFiltersTest.Controllers
         }
 
         
-        public ActionResult About()
+        public virtual ActionResult About()
         {
             return View();
         }

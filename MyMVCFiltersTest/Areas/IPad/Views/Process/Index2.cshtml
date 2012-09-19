@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+@using(Html.BeginForm("SetSession", "Process", FormMethod.Post,null))
+{
+<div>
+SessionID: 
+@Html.TextBox("EntryID1") <input type="submit" value="SetSession" />
+</div>
+}
